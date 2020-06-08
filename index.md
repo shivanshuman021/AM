@@ -54,5 +54,6 @@
 [LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)
 
 **Email**:
-    mishra_941920@student.nitw.ac.in
-    shivanshuman021@gmail.com
+    - mishra_941920@student.nitw.ac.in
+    - shivanshuman021@gmail.com
+    - shivanshuman021@outlook.com
