@@ -1,11 +1,51 @@
-<h2><center> Anshuman Mishra </center><h3>
+<h1><center> Anshuman Mishra </center></h1>
   <h3><center> National Institute of Technology Warangal </center></h3>
-<img src="own_git.jpeg" style="width:200px;height:500px;">
+<center>
+![Me](https://github.com/shivanshuman021/home/blob/master/own_git.jpeg)
+  </center>
 
+### Projects
 
-### Markdown
+1. **[Handsigns](https://shivanshuman021.github.io/HandSigns/)**:
+   - **Technology** - Deep Learning (Computer Vision)
+   - **Framework** - Tensorflow 2.1 , Keras
+   - **Deployment & Operation** - Command Line based
+   - **Programming Language** - Python
+  
+2. **[Objecto](https://shivanshuman021.github.io/Objecto/)**:   
+   - **Technology** - Deep Learning (Computer Vision)
+   - **Framework** - PyTorch 2.1
+   - **Deployment & Operation** - Android 
+   - **Programming Language** - Python , Java , XML
+ 
+3. **[NAiV](https://github.com/shivanshuman021/Technocrats-NAiV)**:
+   - **Project type** - Team (Smart India Hackathon 2020)
+   - **Technology** - Robotics , AI 
+   - **Frameworks** - Django
+   - **Deployment & Operation** - Android , WebApp 
+   - **Programming Language** - Python , Java , XML
+   
+4. **[Image Style Transfer](https://shivanshuman021.github.io/Image-Style-Transfer/)**:
+   - **Technology** - Deep Learning (Computer Vision) 
+   - **Frameworks** - Tensorflow , Keras , PyTorch
+   - **Deployment & Operation** - Jupyter Notebook , Command Line based
+   - **Programming Language** - Python
+   
+5. **[TaskManager](https://shivanshuman021.github.io/TaskManager/)**:
+   - **Technology** - Desktop App
+   - **Framework** - XOJO
+   - **Deployment & Operation** - Windows / Linux / MacOS
+   
+6. **[FRTurtle](https://github.com/shivanshuman021/FRTurtle)**:
+    _Face Recognition System with turtle console for output Under Developement in collaboration with [Syfiyan Ansari](https://github.com/suffisme)_
+    
+7. **[Image Denoising with AutoEncoders]**:
+   - **Technology** - Deep Learning (Computer Vision)
+   - **Framework** - Keras
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+8. **[Tic-Tac-Toe Android](https://github.com/shivanshuman021/Tic-Tac-Toe-Android)**:
+   - Android App for Tic-Tac-Toe game
+    
 
 ```markdown
 Syntax highlighted code block
