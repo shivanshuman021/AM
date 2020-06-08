@@ -1,7 +1,7 @@
 <h1><center> Anshuman Mishra </center></h1>
   <h3><center> National Institute of Technology Warangal </center></h3>
 <center>
-![Me](https://github.com/shivanshuman021/home/blob/master/own_git.jpeg)
+![Me](own_git.jpeg)
   </center>
 
 ### Projects
