@@ -2,7 +2,7 @@
   <h3><center>First Year Undergrad @ National Institute of Technology Warangal </center></h3>
   <h4><center>Electronics & Communication Engineering</center></h4>
 <center>
-<img src="own_linkedin.jpeg" style="width:400px;height:550px;">
+<img src="me.jpeg" style="width:400px;height:550px;">
   </center>
 
 
