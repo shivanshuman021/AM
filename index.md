@@ -1,7 +1,7 @@
 <h1><center> Anshuman Mishra </center></h1>
   <h3><center> National Institute of Technology Warangal </center></h3>
 <center>
-<img src="own_git.jpeg" style="width:300px;height:650px;">
+<img src="own_git.jpeg" style="width:300px;height:550px;">
   </center>
 
 ### Projects
