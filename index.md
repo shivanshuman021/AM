@@ -1,6 +1,6 @@
-## Anshuman Mishra
-### National Institute of Technology Warangal
-<img src="own_git.jpeg" style="width:800px;height:300px;">
+<h2><center> Anshuman Mishra </center><h3>
+  <h3><center> National Institute of Technology Warangal </center></h3>
+<img src="own_git.jpeg" style="width:200px;height:500px;">
 
 
 ### Markdown
