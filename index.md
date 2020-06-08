@@ -4,6 +4,9 @@
 <img src="own_linkedin.jpeg" style="width:400px;height:550px;">
   </center>
 
+
+##### [My Resume](https://docs.google.com/document/d/1z9zfWX0TodUE_q0lCsrmCh7_hTsn4ZfMpQItLoD8J2w/edit)
+
 ### Projects
 
 1. **[Handsigns](https://shivanshuman021.github.io/HandSigns/)**:
@@ -20,30 +23,36 @@
  
 3. **[NAiV](https://github.com/shivanshuman021/Technocrats-NAiV)**:
    - **Project type** - Team (Smart India Hackathon 2020)
-   - **Technology** - Robotics , AI 
+   - **Technology** - Robotics , Deep Learning 
    - **Frameworks** - Django
    - **Deployment & Operation** - Android , WebApp 
    - **Programming Language** - Python , Java , XML
    
-4. **[Image Style Transfer](https://shivanshuman021.github.io/Image-Style-Transfer/)**:
+4. **[Object-Tracker](https://shivanshuman021.github.io/Object-Tracker/)**
+   - **Technology** - Deep Learning
+   - **Deployment & Operation** - Command Line based 
+   **Programming Language** - Python
+   
+5. **[Image Style Transfer](https://shivanshuman021.github.io/Image-Style-Transfer/)**:
    - **Technology** - Deep Learning (Computer Vision) 
    - **Frameworks** - Tensorflow , Keras , PyTorch
    - **Deployment & Operation** - Jupyter Notebook , Command Line based
    - **Programming Language** - Python
    
-5. **[TaskManager](https://shivanshuman021.github.io/TaskManager/)**:
+6. **[TaskManager](https://shivanshuman021.github.io/TaskManager/)**:
    - **Technology** - Desktop App
    - **Framework** - XOJO
    - **Deployment & Operation** - Windows / Linux / MacOS
    
-6. **[FRTurtle](https://github.com/shivanshuman021/FRTurtle)**:
+7. **[FRTurtle](https://github.com/shivanshuman021/FRTurtle)**:
     _Face Recognition System with turtle console for output Under Developement in collaboration with [Syfiyan Ansari](https://github.com/suffisme)_
     
-7. **[Image Denoising with AutoEncoders]**:
+8. **[Image Denoising with AutoEncoders]**:
    - **Technology** - Deep Learning (Computer Vision)
    - **Framework** - Keras
+   - **Programming Language** - Python
 
-8. **[Tic-Tac-Toe Android](https://github.com/shivanshuman021/Tic-Tac-Toe-Android)**:
+9. **[Tic-Tac-Toe Android](https://github.com/shivanshuman021/Tic-Tac-Toe-Android)**:
    - Android App for Tic-Tac-Toe game
     
 
