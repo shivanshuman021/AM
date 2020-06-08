@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Anshuman Mishra
+### National Institute of Technology Warangal
+<img src="own_git.jpeg" style="width:800px;height:300px;">
 
-You can use the [editor on GitHub](https://github.com/shivanshuman021/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
