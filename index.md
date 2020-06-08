@@ -1,7 +1,7 @@
 <h1><center> Anshuman Mishra </center></h1>
   <h3><center> National Institute of Technology Warangal </center></h3>
 <center>
-<img src="own_linkedin.jpeg" style="width:300px;height:550px;">
+<img src="own_linkedin.jpeg" style="width:400px;height:550px;">
   </center>
 
 ### Projects
@@ -51,7 +51,8 @@
 
 ### Support or Contact
 
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)
+
 **Email**:
     mishra_941920@student.nitw.ac.in
     shivanshuman021@gmail.com
