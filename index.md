@@ -56,9 +56,12 @@
 9. **[Tic-Tac-Toe Android](https://github.com/shivanshuman021/Tic-Tac-Toe-Android)**:
    - Android App for Tic-Tac-Toe game
     
+### Blogs & Programming Tutorial
+   - **[PyVerse](https://suffisme.github.io/PyVerse)** - For learning Python 
+   - **[Core-Programming](https://github.com/suffisme/Core-Programming)** - For Algorithms & Data-Structures
 
-
-
+    Above Two Repositories are being maintained in collaboration with Sufiyan Ansari 
+    
 ### Support or Contact
 
 [LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)
