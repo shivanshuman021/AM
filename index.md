@@ -33,27 +33,32 @@
    - **Technology** - Deep Learning
    - **Deployment & Operation** - Command Line based 
    **Programming Language** - Python
-   
-5. **[Image Style Transfer](https://shivanshuman021.github.io/Image-Style-Transfer/)**:
+
+5. **[Hand-written digit classification in browser using TensorFlow JS](https://shivanshuman021.github.io/handwrittenDigit/)**
+   - **Technology** - Deep Learning and Web Developement
+   - **Deployment & Operation** - WebApp
+   - **Programming Language** - JavaScript
+
+6. **[Image Style Transfer](https://shivanshuman021.github.io/Image-Style-Transfer/)**:
    - **Technology** - Deep Learning (Computer Vision) 
    - **Frameworks** - Tensorflow , Keras , PyTorch
    - **Deployment & Operation** - Jupyter Notebook , Command Line based
    - **Programming Language** - Python
    
-6. **[TaskManager](https://shivanshuman021.github.io/TaskManager/)**:
+7. **[TaskManager](https://shivanshuman021.github.io/TaskManager/)**:
    - **Technology** - Desktop App
    - **Framework** - XOJO
    - **Deployment & Operation** - Windows / Linux / MacOS
    
-7. **[FRTurtle](https://github.com/shivanshuman021/FRTurtle)**:
+8. **[FRTurtle](https://github.com/shivanshuman021/FRTurtle)**:
     _Face Recognition System with turtle console for output Under Developement in collaboration with [Sufiyan Ansari](https://github.com/suffisme)_
     
-8. **[Image Denoising with AutoEncoders]**:
+9. **Image Denoising with AutoEncoders**:
    - **Technology** - Deep Learning (Computer Vision)
    - **Framework** - Keras
    - **Programming Language** - Python
 
-9. **[Tic-Tac-Toe Android](https://github.com/shivanshuman021/Tic-Tac-Toe-Android)**:
+10 **[Tic-Tac-Toe Android](https://github.com/shivanshuman021/Tic-Tac-Toe-Android)**:
    - Android App for Tic-Tac-Toe game
     
 ### Blogs & Programming Tutorial
