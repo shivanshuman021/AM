@@ -51,7 +51,11 @@
    - **Deployment & Operation** - Windows / Linux / MacOS
    
 8. **[FRTurtle](https://github.com/shivanshuman021/FRTurtle)**:
-    _Face Recognition System with turtle console for output Under Developement in collaboration with [Sufiyan Ansari](https://github.com/suffisme)_
+   - **Technology** - Deep Learning
+   - **Framework** - TensorFlow 2.2
+   - **Deployment & Operation** - Terminal Based
+    
+    Face Recognition System with turtle console for output Under Developement in collaboration with [Sufiyan Ansari](https://github.com/suffisme)
     
 9. **Image Denoising with AutoEncoders**:
    - **Technology** - Deep Learning (Computer Vision)
