@@ -1,7 +1,9 @@
 <h1><center> Anshuman Mishra </center></h1>
   <h3><center>First Year Undergrad @ National Institute of Technology Warangal </center></h3>
   <h4><center>Electronics & Communication Engineering</center></h4>
-  <h4><center>#The_Original_Six_of_[Technocrats](https://github.com/Technocrats-nitw)</center></h4>
+  <B><center>#The_Original_Six_of
+  
+  [Technocrats](https://github.com/Technocrats-nitw)</center></B>
 <center>
 <img src="me.jpeg" style="width:400px;height:550px;">
   </center>
