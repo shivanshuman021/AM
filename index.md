@@ -10,7 +10,7 @@
   </center>
 
 
-##### [My Resume](https://docs.google.com/document/d/1z9zfWX0TodUE_q0lCsrmCh7_hTsn4ZfMpQItLoD8J2w/edit)
+
 
 ### Projects
 
